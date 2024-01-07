@@ -7,3 +7,32 @@ body {
 .blue {
     color: blue;
 }
+nav {
+    float: right;
+}
+nav ul {
+    margin: 10px;
+    list-style: none;
+}
+nav li {
+    padding: 10px;
+    display: inline-block;
+}
+h1 {
+    float: left;
+}
+header {
+height: 100px;
+padding: 15px;
+background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+body {
+    background: #000000;
+}
+.container {
+    padding: 15px;
+    background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+ol li b {
+    color: red;
+}

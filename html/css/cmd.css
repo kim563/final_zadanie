@@ -1,12 +1,4 @@
-.green {
-    color: green;
-    font-weight: 800;
-}
-
-.container ul li {
-    font-style: italic;
- }
- header {
+header {
     height: 100px;
     padding: 15px;
     background-image: linear-gradient(to right, #E2BCBB, #E4514A);

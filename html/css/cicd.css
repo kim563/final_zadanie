@@ -1,3 +1,30 @@
 .red {
     color: red;
 }
+header {
+    height: 100px;
+    padding: 15px;
+    background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+    }
+body {
+        background: #000000;
+        font-size: 24px;
+    }
+.container {
+    padding: 15px;
+    background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+    }
+nav {
+     float: right;
+}
+nav ul {
+    margin: 10px;
+    list-style: none;
+}
+nav li {
+    padding: 10px;
+    display: inline-block;
+}
+h1 {
+    float: left;
+}          
